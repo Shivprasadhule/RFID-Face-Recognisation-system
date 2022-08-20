@@ -4,18 +4,18 @@ Our system proposes using a combination of RFID and Facial Recognition Technique
 
 ## Block Diagram
 
-![block_diagram](https://github.com/shubranshugupta/Attendance-system-using-rfid-and-face-recognition/blob/main/images/block_digram.png?raw=true)
+![block_diagram](https://github.com/Shivprasadhule/RFID-Face-Recognisation-system/blob/main/images/block_digram.png)
 
 ## Circuit Diagram
 
-![circuit_diagram](https://github.com/shubranshugupta/Attendance-system-using-rfid-and-face-recognition/blob/main/images/circuit_diagram.png?raw=true)
+![circuit_diagram](https://github.com/Shivprasadhule/RFID-Face-Recognisation-system/blob/main/images/circuit_diagram.png)
 
 # How to use?
 
 **Note:** Install [Dlib](https://pyimagesearch.com/2017/03/27/how-to-install-dlib/) library before running the code.
 
 ```bash
-git clone https://github.com/shubranshugupta/Attendance-system-using-rfid-and-face-recognition.git
+git clone https://github.com/Shivprasadhule/RFID-Face-Recognisation-system.git
 
 pip install -r requirements.txt
 
